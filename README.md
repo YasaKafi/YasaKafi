@@ -4,8 +4,10 @@ Hi 👋 My name is Yasa
 Android Developer
 ----------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YasaKafi&label=Profile%20views&color=A95C68&style=flat" alt="YasaKafi" /> </p>
+
 * 🌍  I'm based in Kudus
-* 🚀  I'm currently school on [SMK Raden Umar Said Kudus](http://smkrus.sch.id/)
+* 🏫  I'm currently school on [SMK Raden Umar Said Kudus](http://smkrus.sch.id/)
 * ✉️  You can contact me at [yasazerina@gmail.com](mailto:yasazerina@gmail.com)
 * 🧠  I'm learning Java, JavaScript, HTML, CSS, Dart
 
