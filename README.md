@@ -1,6 +1,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&random=false&width=435&lines=Hey+%F0%9F%A5%B6+iam+Yaskraz" alt="Typing SVG" /></a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2012%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-672.6%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -53,5 +55,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 22:59:02 UTC
+ Last Updated on 15/04/2024 18:37:45 UTC
 <!--END_SECTION:waka-->
