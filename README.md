@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&random=false&width=435&lines=Hey+%F0%9F%A5%B6+iam+Yaskraz" alt="Typing SVG" /></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
 
@@ -30,16 +30,17 @@ Sunday                   713 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   12 hrs 18 mins      ███████████████░░░░░░░░░░   61.57 % 
-XML                      7 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Kotlin                   7 hrs 53 mins       ██████████████░░░░░░░░░░░   55.78 % 
+XML                      6 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.93 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           19 hrs 59 mins      █████████████████████████   100.00 % 
+Android Studio           14 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -55,5 +56,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 18:47:43 UTC
+ Last Updated on 13/02/2025 18:47:17 UTC
 <!--END_SECTION:waka-->
