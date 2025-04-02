@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&random=false&width=435&lines=Hey+%F0%9F%A5%B6+iam+Yaskraz" alt="Typing SVG" /></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -30,16 +30,15 @@ Sunday                   713 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.12 % 
-SCSS                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-PHP                      1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+JavaScript               2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+SCSS                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+PHP                      1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -55,5 +54,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 18:50:58 UTC
+ Last Updated on 02/04/2025 18:50:27 UTC
 <!--END_SECTION:waka-->
