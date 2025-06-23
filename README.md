@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&random=false&width=435&lines=Hey+%F0%9F%A5%B6+iam+Yaskraz" alt="Typing SVG" /></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -30,13 +30,13 @@ Sunday                   720 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -52,5 +52,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 18:50:37 UTC
+ Last Updated on 23/06/2025 18:53:57 UTC
 <!--END_SECTION:waka-->
