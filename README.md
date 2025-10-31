@@ -42,15 +42,15 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Dart                     13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
 
 
- Last Updated on 30/10/2025 18:53:21 UTC
+ Last Updated on 31/10/2025 18:52:44 UTC
 <!--END_SECTION:waka-->
