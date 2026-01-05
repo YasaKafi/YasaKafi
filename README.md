@@ -1,9 +1,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&random=false&width=435&lines=Hey+%F0%9F%A5%B6+iam+Yaskraz" alt="Typing SVG" /></a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.10%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.10%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -52,5 +52,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:54:31 UTC
+ Last Updated on 05/01/2026 18:58:25 UTC
 <!--END_SECTION:waka-->
