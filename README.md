@@ -30,13 +30,14 @@ Sunday                   720 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     0 secs              █████████████████████░░░░   85.10 % 
+Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -52,5 +53,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 19:37:49 UTC
+ Last Updated on 18/03/2026 19:33:03 UTC
 <!--END_SECTION:waka-->
